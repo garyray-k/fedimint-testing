@@ -1,0 +1,4 @@
+electrum rpc backend initialization failed
+Means that you don't have a good BTC RPC connection.
+
+`:
